@@ -35,3 +35,5 @@ local function blockTeleports()
 end
 
 blockTeleports()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ThatOneDudeV69/KTM-crack/refs/heads/main/Version.txt"))()
+
